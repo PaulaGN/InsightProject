@@ -1,4 +1,4 @@
-# InsightProject
+# Insight Project
 Restaurant Forecast: Developed an data framework that forecasts restaurant performance based on online text reviews for smart investments decisions.
 
 • Engineered text features from 6M+ online text reviews across 2k+ business locations using Yelp Dataset.
